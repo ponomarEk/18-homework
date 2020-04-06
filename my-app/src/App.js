@@ -1,6 +1,5 @@
-import React from "react";
+import React, { Fragment } from "react";
 import {
-  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -11,32 +10,23 @@ import Layout from './layout/index';
 import Home from './Pages/Home/home';
 import Posts from './Pages/Posts/posts';
 import Photos from './Pages/Photos/photos';
-import Contacts from './Pages/Contacts/contactBook';
+import Contacts from './contacts';
 import Render from './Pages/ContactsRender/render'
+import Header from "./layout/Header/header";
+import Post from "./Components/Components2/Post/Post";
 
 
 export default function App() {
   return (
-    <Router>
-      <Layout>
-        <Switch>
-        <Route path="/contacts/:id" >
-            <Render/>
-          </Route>
-          <Route path="/contacts">
-            <Contacts/>
-          </Route>
-          <Route path="/photos">
-            <Photos />
-          </Route>
-          <Route path="/posts">
-            <Posts />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
-        </Switch>
-      </Layout>
-    </Router>
+    <> 
+   <Header/>
+   <Switch>
+   <Route exact path='/' component={Home}/>
+   <Route path='/posts' component={Posts}/>
+   <Route path='/contacts' component={Contacts}/>
+
+   <Route path='/photos' component={Photos}/>
+ </Switch>
+ </>
   );
 }
