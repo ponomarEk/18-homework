@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/18-Homework/static/css/main.2352a681.chunk.css",
+    "main.js": "/18-Homework/static/js/main.41917e38.chunk.js",
+    "main.js.map": "/18-Homework/static/js/main.41917e38.chunk.js.map",
+    "runtime-main.js": "/18-Homework/static/js/runtime-main.74688f11.js",
+    "runtime-main.js.map": "/18-Homework/static/js/runtime-main.74688f11.js.map",
+    "static/js/2.72bb5baf.chunk.js": "/18-Homework/static/js/2.72bb5baf.chunk.js",
+    "static/js/2.72bb5baf.chunk.js.map": "/18-Homework/static/js/2.72bb5baf.chunk.js.map",
+    "index.html": "/18-Homework/index.html",
+    "precache-manifest.9fc21aa33e9a93a12a3163cefdee8ba9.js": "/18-Homework/precache-manifest.9fc21aa33e9a93a12a3163cefdee8ba9.js",
+    "service-worker.js": "/18-Homework/service-worker.js",
+    "static/css/main.2352a681.chunk.css.map": "/18-Homework/static/css/main.2352a681.chunk.css.map",
+    "static/js/2.72bb5baf.chunk.js.LICENSE.txt": "/18-Homework/static/js/2.72bb5baf.chunk.js.LICENSE.txt",
+    "static/media/01e81a35e0d119aed42d2fb15ae6d7e5.jpg": "/18-Homework/static/media/01e81a35e0d119aed42d2fb15ae6d7e5.72c941bd.jpg",
+    "static/media/32_1920_1200_beautypic.ru.jpg": "/18-Homework/static/media/32_1920_1200_beautypic.ru.ef3a4185.jpg",
+    "static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.jpg": "/18-Homework/static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.783bc1bd.jpg",
+    "static/media/unnamed.jpg": "/18-Homework/static/media/unnamed.88c0f6ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74688f11.js",
+    "static/js/2.72bb5baf.chunk.js",
+    "static/css/main.2352a681.chunk.css",
+    "static/js/main.41917e38.chunk.js"
+  ]
+}
