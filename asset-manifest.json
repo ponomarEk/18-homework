@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/18-Homework/static/css/main.2352a681.chunk.css",
-    "main.js": "/18-Homework/static/js/main.fe0c5650.chunk.js",
-    "main.js.map": "/18-Homework/static/js/main.fe0c5650.chunk.js.map",
+    "main.css": "/18-Homework/static/css/main.bcefda32.chunk.css",
+    "main.js": "/18-Homework/static/js/main.a10f3921.chunk.js",
+    "main.js.map": "/18-Homework/static/js/main.a10f3921.chunk.js.map",
     "runtime-main.js": "/18-Homework/static/js/runtime-main.74688f11.js",
     "runtime-main.js.map": "/18-Homework/static/js/runtime-main.74688f11.js.map",
-    "static/js/2.0171cd32.chunk.js": "/18-Homework/static/js/2.0171cd32.chunk.js",
-    "static/js/2.0171cd32.chunk.js.map": "/18-Homework/static/js/2.0171cd32.chunk.js.map",
+    "static/js/2.be905d1a.chunk.js": "/18-Homework/static/js/2.be905d1a.chunk.js",
+    "static/js/2.be905d1a.chunk.js.map": "/18-Homework/static/js/2.be905d1a.chunk.js.map",
     "index.html": "/18-Homework/index.html",
-    "precache-manifest.882ba727994753fe903ac891ff1d7659.js": "/18-Homework/precache-manifest.882ba727994753fe903ac891ff1d7659.js",
+    "precache-manifest.9c4a920236c8215629338fd942d206a8.js": "/18-Homework/precache-manifest.9c4a920236c8215629338fd942d206a8.js",
     "service-worker.js": "/18-Homework/service-worker.js",
-    "static/css/main.2352a681.chunk.css.map": "/18-Homework/static/css/main.2352a681.chunk.css.map",
-    "static/js/2.0171cd32.chunk.js.LICENSE.txt": "/18-Homework/static/js/2.0171cd32.chunk.js.LICENSE.txt",
+    "static/css/main.bcefda32.chunk.css.map": "/18-Homework/static/css/main.bcefda32.chunk.css.map",
+    "static/js/2.be905d1a.chunk.js.LICENSE.txt": "/18-Homework/static/js/2.be905d1a.chunk.js.LICENSE.txt",
     "static/media/01e81a35e0d119aed42d2fb15ae6d7e5.jpg": "/18-Homework/static/media/01e81a35e0d119aed42d2fb15ae6d7e5.72c941bd.jpg",
     "static/media/32_1920_1200_beautypic.ru.jpg": "/18-Homework/static/media/32_1920_1200_beautypic.ru.ef3a4185.jpg",
     "static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.jpg": "/18-Homework/static/media/prikolnye-kartinki-pro-leto-na-rabochij-stol-1.783bc1bd.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74688f11.js",
-    "static/js/2.0171cd32.chunk.js",
-    "static/css/main.2352a681.chunk.css",
-    "static/js/main.fe0c5650.chunk.js"
+    "static/js/2.be905d1a.chunk.js",
+    "static/css/main.bcefda32.chunk.css",
+    "static/js/main.a10f3921.chunk.js"
   ]
 }
