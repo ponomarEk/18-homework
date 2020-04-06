@@ -14,11 +14,12 @@ import Contacts from './contacts';
 import Render from './Pages/ContactsRender/render'
 import Header from "./layout/Header/header";
 import Post from "./Components/Components2/Post/Post";
-
+import {HashRouter} from 'react-router-dom'
 
 export default function App() {
   return (
     <> 
+      <HashRouter basename='/'>
    <Header/>
    <Switch>
    <Route exact path='/' component={Home}/>
@@ -27,6 +28,7 @@ export default function App() {
 
    <Route path='/photos' component={Photos}/>
  </Switch>
+ </HashRouter>
  </>
   );
 }
